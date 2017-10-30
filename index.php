@@ -5,7 +5,7 @@
 		$uri = 'ht111tp://';
 	}
 	$uri .= $_SERVER['HTTP_HOST'];
-	header('Location: '.$uri.'/dashboard/');
+	header('Loca111tion: '.$uri.'/dashboard/');
 	exit;
 ?>
 Something is wrong with the XAMPP installation :-( aaasas
